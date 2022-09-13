@@ -24,7 +24,7 @@ To create a film finder with <a href="https://developers.themoviedb.org/3/gettin
 
 ## Problem Statement
 
-- Your company has recently started on a project that aims to create a website website with Bootstrap. So you and your colleagues have started to work on the project.
+- Your company has recently started on a project that aims to create a Film adviser website website with Movie Database. So you and your colleagues have started to work on the project.
 <hr>
 
 
