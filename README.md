@@ -44,14 +44,14 @@ bootstrap-website(folder)
 
 ## Screenshot
 <p align="center">
-<a href="https://bavi-boop.github.io/film-finder/"><img src="film.gif" alt="screenshot"></a>
+<a href="https://graceful-starburst-5ecc69.netlify.app/"><img src="film.gif" alt="screenshot"></a>
 </p>
 
 
 
 ## Links
 <hr>
-<b>Check The Live Website ➡️</b> <a href="https://bavi-boop.github.io/film-finder/">Live Website</a>
+<b>Check The Live Website ➡️</b> <a href="https://graceful-starburst-5ecc69.netlify.app/">Live Website</a>
 <hr>
 
 ### Built with
