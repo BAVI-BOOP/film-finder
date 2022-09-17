@@ -81,7 +81,7 @@ bootstrap-website(folder)
 
 ## Notes
 
-- You can use HTML,and CSS, JS and api to complete this project.
+- You can use HTML,and CSS, JS and movie API to complete this project.
 
 ### Useful resources
 
