@@ -4,7 +4,6 @@
 
 
 
-
 # Project : Film Finder
 
 ## Table of contents
